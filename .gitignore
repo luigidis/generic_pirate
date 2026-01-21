@@ -1,0 +1,26 @@
+# Visual Studio / Rider files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+.idea/
+
+# Unreal Engine Temp folders (MAI caricare queste!)
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+
+# Config files (Opzionale: a volte serve caricare DefaultEditorPerProjectUserSettings.ini)
+Saved/Config/
+
+# Plugin Temp
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# OS junk
+.DS_Store
+Thumbs.db
